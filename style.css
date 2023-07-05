@@ -1,0 +1,29 @@
+*{
+    background-color: blueviolet
+}
+.bis{
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.history{
+    border: 2px solid white;
+    width: 400px;
+    height: 700px;
+    text-align: center;
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 2px;
+    font-size: 20ox;
+    text-align: center;
+    margin: auto;
+    box-shadow: -10px 10px 10px 15px black;
+
+    
+}
+.prophet{
+    font-weight: bold;
+    font-size: large;
+}
